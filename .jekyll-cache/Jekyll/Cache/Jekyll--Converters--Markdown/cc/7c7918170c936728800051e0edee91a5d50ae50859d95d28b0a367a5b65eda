@@ -1,0 +1,35 @@
+I"J<p>All day CyberClass</p>
+<hr />
+<h3 id="cyberclass">CyberClass</h3>
+
+<ul>
+  <li>Tworzenie raportów z pentestów.</li>
+  <li>Poszerzenie informacji na temat Burp Suita, PortSwiggera, XSS</li>
+</ul>
+
+<h4 id="portswigger-xss">PortSwigger: XSS</h4>
+
+<ul>
+  <li>Reflected XSS into HTML context with nothing encoded</li>
+  <li>Stored XSS into HTML context with nothing encoded</li>
+  <li>DOM XSS in document.write sink using source location.search</li>
+  <li>DOM XSS in innerHTML sink using source location.search</li>
+  <li>DOM XSS in jQuery anchor href attribute sink using location.search source</li>
+  <li>DOM XSS in jQuery selector sink using a hashchange event</li>
+</ul>
+
+<h4 id="thm-room-complete-beginner">THM: Room: Complete Beginner:</h4>
+
+<ul>
+  <li>Complete Beginner Introduction</li>
+  <li>Linux Fundamentals</li>
+  <li>Network Exploitation Basics</li>
+  <li>Windows Exploitation Basics</li>
+</ul>
+
+<h3 id="art-protokoły-http---nauka-i-przypomnienie">Art: Protokoły HTTP - nauka i przypomnienie</h3>
+
+<p><code class="language-plaintext highlighter-rouge">
+Cyber Security !!
+</code></p>
+:ET

@@ -1,0 +1,21 @@
+I"&<p>Instalacja karty sieciowej.</p>
+<hr />
+<h3 id="-network-interface"><a href="#header-5"></a> Network interface</h3>
+
+<blockquote>
+  <p>Przez ostatni czas poszukiwałem informacji na temat nowych kart sieciowych. W związku z ztym, że moja pracowała tylko na 2,4GHz stwirdziłem, iż w ramach dalszej nauki administrowania linuxem oraz cyber security będzie potrzebna nowa karta sieciowa obsługująca pasmo 5 GHz.</p>
+</blockquote>
+
+<ul>
+  <li>Wymiana karty sieciowej obsługującej 5gHz</li>
+  <li>Modyfikacja biosu pod obsługe nowej karty sieciowej</li>
+  <li>Weryfikacja sieci na linuxach</li>
+  <li>Problem z siecią na ubuntu. Trzeba było ręcznie łączyć się.</li>
+  <li>Reinstall rozwiązuje problem.</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">
+5GHz !!
+</code></p>
+
+:ET

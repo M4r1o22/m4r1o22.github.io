@@ -1,0 +1,24 @@
+I"�<h3 id="-udemy-module-7---networking-services-and-system-updates"><a href="#header-3"></a> Udemy: Module 7 - Networking, Services and System Updates</h3>
+
+<ul>
+  <li>Lekcja 156 - chronyd</li>
+  <li>Lekcja 157 - new system utylity command</li>
+  <li>Lekcja 158 - sendmail<br />
+<em>super sprawa do przetestowaniana Rpi, aby wysyłał komunikaty w razie jakiejś aktywności.</em></li>
+  <li>Lekcja 158 - web server apache - HTTPD<br />
+<em>podstawy, niekoniecznie wykorzystam, spodziewałem się instalacji samego apacha.</em></li>
+  <li>Lekcja 160 - rsyslog
+<em>warto wrócić i spróbować z Rpi</em></li>
+  <li>Lekcja 161 - OS Hardening<br />
+<em>user account, Remove un-wanted packages, stop un-used services, check on listening ports, secure ssh, enable firewall, enable SELinux, change listening services port number, security patching</em></li>
+  <li>Lekcja 162 - OpenLDAP Installation<br />
+<em>temat warty rozeznania</em></li>
+  <li>Lekcja 163 - Traceroute<br />
+<em>temat znany z THM oraz PortSwigger</em></li>
+  <li>Lekcja 164 - How to open image file</li>
+</ul>
+
+<p><a href="#10. Lekcja 165 - configure and secure ssh"></a>
+<a href="#11. Lekcja 166 - ssh-keys"></a>
+<a href="#12. Lekcja 167 - linux web-based admin - cockpit"></a></p>
+:ET

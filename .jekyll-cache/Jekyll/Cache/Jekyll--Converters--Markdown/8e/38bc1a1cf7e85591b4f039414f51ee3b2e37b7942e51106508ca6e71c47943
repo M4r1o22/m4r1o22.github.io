@@ -1,0 +1,28 @@
+I"N<p>Administracja. Rozwiązywanie napotkanego problemu</p>
+<h3 id="-yt-piotr-koska"><a href="#header-5"></a> YT: Piotr Koska</h3>
+<ul>
+  <li>LinuxAdministrator - nowy cykl</li>
+</ul>
+
+<p><em>Podczas pracy oraz nauki zaczął pojawiać się problem przycinania pracy ubuntu.</em>
+<em>Zdarzało się to podczas pisania kodów, jak i w czasie bezczynności.</em>
+<em>W związku z ztym, że poznałem już kilka narzędzi, mogłem rozpocząć poszukiwania co jest przyczyną problemu</em></p>
+
+<h3 id="gdzie-jest-moc">Gdzie jest moc?</h3>
+<ul>
+  <li>Problem: ubuntu przycina</li>
+  <li>Narzędzia:
+    <blockquote>
+      <p>DF<br />
+DH<br />
+HTOP<br />
+VirtualBox</p>
+    </blockquote>
+  </li>
+  <li>Rozwiązanie: Zwiększenie pamięci RAM, miejsca HDD w Vbox</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">
+Good work!!
+</code></p>
+:ET

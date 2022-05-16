@@ -1,0 +1,52 @@
+I"n<p>Kurs <a href="https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job">Linux Training</a> CyberClass</p>
+<hr />
+<h3 id="-udemy-module-3--system-access-and-file-system"><a href="#header-5"></a> Udemy: Module 3 – System Access and File System</h3>
+
+<ul>
+  <li>Accessing Linux system</li>
+  <li>Download and install Putty</li>
+  <li>Connect Linux VM via Putty</li>
+  <li>Important Things to Remember in Linux</li>
+  <li>Introduction to File System</li>
+  <li>File system structure description</li>
+  <li>File system navigation commands</li>
+  <li>File System Paths</li>
+  <li>Directory listing overview</li>
+  <li>Creating Files and Directories</li>
+  <li>Finding Files and Directories (find, locate)</li>
+  <li>Changing Password</li>
+  <li>Wildcard (*, $, ^)</li>
+  <li>Combining and Splitting Files (cat and cut)</li>
+  <li>Soft and Hard Links (ln)</li>
+  <li>Quiz, Homework and Handouts</li>
+</ul>
+
+<h3 id="cyberclass">CyberClass</h3>
+
+<ul>
+  <li>Znalezienie podatności Stored XSS oraz zgłoszenie w ramach Bug Bounty.</li>
+  <li>TryHackMe &amp; PortSwigger</li>
+  <li>Warsztaty z Path Traversal w tym omówienie podatności w Apache 2.4.49 / 2.4.50.</li>
+</ul>
+
+<h4 id="portswigger-path-traversal">PortSwigger: Path traversal</h4>
+
+<ul>
+  <li>File path traversal, simple case</li>
+  <li>File path traversal, traversal sequences blocked with absolute path bypass</li>
+  <li>File path traversal, traversal sequences stripped non-recursively</li>
+  <li>File path traversal, traversal sequences stripped with superfluous URL-decode</li>
+  <li>File path traversal, validation of start of path</li>
+  <li>File path traversal, validation of file extension with null byte bypass</li>
+</ul>
+
+<h4 id="burp-suite">Burp Suite</h4>
+
+<ul>
+  <li>testowanie w środowisku testowym oraz live</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">
+Intensivity
+</code></p>
+:ET

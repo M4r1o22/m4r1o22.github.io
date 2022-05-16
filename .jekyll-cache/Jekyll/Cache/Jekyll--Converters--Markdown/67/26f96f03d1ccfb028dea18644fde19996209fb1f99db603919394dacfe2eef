@@ -1,0 +1,59 @@
+I")<hr />
+
+<p>Wiele się dzieje, mniej cisnę z nauką.
+Książkę muszę odpuścić - gdyż to akurat przypomnienie materiału oraz utrwalenie tego czego się uczyłem.</p>
+
+<p>Rozpoczynam 14,5h kurs na Udemy ze skrytpowania w Bashu.
+Udemy - Complete Linux Bash Shell Scripting (wersja w pełni po angielsku)</p>
+
+<hr />
+
+<h3 id="-udemy---complete-linux-bash-shell-scripting"><a href="#header-3"></a> Udemy - Complete Linux Bash Shell Scripting</h3>
+
+<p><strong>Section 1</strong></p>
+
+<ul>
+  <li>Introduction</li>
+</ul>
+
+<p><strong>Section 2 – (Lab Setup)</strong></p>
+
+<ul>
+  <li>What is Virtual Box?</li>
+  <li>Downloading and installing Virtual Box</li>
+  <li>Creating first virtual machine</li>
+  <li>Linux installation</li>
+</ul>
+
+<p><strong>Section: 3 – (Shell Scripting Basics)</strong></p>
+<ul>
+  <li>What is Kernel?</li>
+  <li>What is a Shell?</li>
+  <li>Shell Scripting?</li>
+  <li>Type of Shells</li>
+  <li>Starting a Shell</li>
+  <li>How to Run a Shell Script</li>
+</ul>
+
+<p><strong>Section: 4 – (Scripting Standards)</strong></p>
+<ul>
+  <li>Naming Convention</li>
+  <li>Script File Permissions</li>
+  <li>Shell Script Format</li>
+  <li>Sequence of Script Execution</li>
+</ul>
+
+<p><strong>Section: 5 – (Basic Shell Scripts)</strong></p>
+<ul>
+  <li>Creating 1st script</li>
+  <li>Script to run basic tasks</li>
+  <li>Defining variable</li>
+  <li>Input/output script</li>
+  <li>Conditions/If else statement scripts</li>
+  <li>Case statement scripts</li>
+  <li>For loop scripts</li>
+  <li>Do-while scripts</li>
+  <li>Exist Status</li>
+  <li>Handouts</li>
+</ul>
+:ET

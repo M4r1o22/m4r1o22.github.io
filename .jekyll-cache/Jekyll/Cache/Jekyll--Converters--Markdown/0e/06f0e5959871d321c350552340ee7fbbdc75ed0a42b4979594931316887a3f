@@ -1,0 +1,32 @@
+I"t<p>Dalsza nauka. Rozwiązywanie napotkanego problemu</p>
+<h3 id="-yt-piotr-koska"><a href="#header-5"></a> YT: Piotr Koska</h3>
+<ul>
+  <li>LinuxToProste - dalsze filmy</li>
+</ul>
+
+<p><em>Podczas pracy oraz nauki zaczął pojawiać się problem zrywania łącza internetowego.</em>
+<em>W związku z tym, że jakąś wiedzę już posiadałem rozpocząłem diagnozowanie problemu.</em>
+<em>Testowanie zajęło mi kilka dni, przy różnych porach, w różnych konfiguracjach.</em></p>
+
+<h3 id="testowanie-swojego-internetu">Testowanie swojego internetu.</h3>
+<ul>
+  <li>Problem: zrywa połączenie</li>
+  <li>Narzędzia:
+    <blockquote>
+      <p>testowanie pingiem<br />
+testowanie prędkości internetu<br />
+wykorzystywanie narzędzi: netstat, iwconfig, i innych</p>
+    </blockquote>
+  </li>
+  <li>Stworzenie skryptu bash
+    <blockquote>
+      <p>do zapisywania pingu do pliku wraz z podaną godziną, aby zweryfikować jak często rozłącza, oraz jaki jest czas.</p>
+    </blockquote>
+  </li>
+  <li>Rozwiązanie: Zmiana UniFi AP na Router TPlink</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">
+Good work!!
+</code></p>
+:ET

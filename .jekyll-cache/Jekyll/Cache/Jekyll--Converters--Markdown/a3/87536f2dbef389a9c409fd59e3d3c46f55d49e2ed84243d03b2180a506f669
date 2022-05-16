@@ -1,0 +1,15 @@
+I"<p>Administracja. SSH. PuTTy.</p>
+<hr />
+<h3 id="-yt-piotr-koska"><a href="#header-5"></a> YT: Piotr Koska</h3>
+<ul>
+  <li>LinuxAdministrator - kontynuacja cyklu</li>
+  <li>Instalacja ssh, konfiguracja oraz autoryzacja</li>
+</ul>
+
+<p><em>W ramach nauki instalowałem protokół ssh wraz autoryzacją kluczem RSA.</em>
+<em>Dzięki temu udało się za pomocą Putty łączyć z komuterem w domu, aby w wolnej chwili w pracy ćwiczyć</em></p>
+
+<p><code class="language-plaintext highlighter-rouge">
+Remote !!
+</code></p>
+:ET

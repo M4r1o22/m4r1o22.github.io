@@ -1,0 +1,28 @@
+I"�<p>Był okres świąteczny. Był okres nauki.</p>
+<hr />
+<h3 id="-yt-piotr-koska"><a href="#header-5"></a> YT: Piotr Koska</h3>
+
+<ul>
+  <li>
+    <p>Bash - tworzenie skryptów</p>
+  </li>
+  <li>Automatyzacja aktualizacji</li>
+  <li>Wyciąganie danych z systemu</li>
+  <li>Wyciąganie użytkowników</li>
+  <li>Funkcje: case, for, cat, cut, sed, awk</li>
+  <li>Zewnętrzne funkcje</li>
+  <li>Funkcje: pętla for, while, until, select</li>
+  <li>Globalne vs lokalne zmienne</li>
+  <li>automatyzacja użytkownika</li>
+  <li>namespace, skrypt automatyzujący</li>
+</ul>
+
+<blockquote>
+  <p>W ostatnim czasie uczyłem się tworzenia skryptów. Skrypty sam przepsiywałem z filmu i analizowałem. <br />
+Czasami spotykałem błędy, które udało mi się wszystkie rozwiązać. Dużo rozmawiałem z moim mentorem.</p>
+</blockquote>
+
+<p><code class="language-plaintext highlighter-rouge">
+Scripting!!
+</code></p>
+:ET

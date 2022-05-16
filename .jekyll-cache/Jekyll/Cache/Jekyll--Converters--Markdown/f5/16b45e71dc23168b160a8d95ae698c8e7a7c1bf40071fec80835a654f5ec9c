@@ -1,0 +1,61 @@
+I"-<p>Kurs <a href="https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job">Linux Training</a> CyberClass 10.02 - 12.02</p>
+<hr />
+<h3 id="-udemy-module-4--linux-fundamentals"><a href="#header-5"></a> Udemy: Module 4 – Linux Fundamentals</h3>
+
+<ul>
+  <li>Commands Syntax</li>
+  <li>File Permissions (chmod)</li>
+  <li>File Ownership (chown, chgrp)</li>
+  <li>Getting Help (man, whatis etc.)</li>
+  <li>TAB completion and up arrow keys</li>
+  <li>Adding text to file</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>Pipes (</td>
+          <td>)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>File Maintenance Commands</li>
+  <li>File Display Commands</li>
+  <li>Filters / Text Processing Commands (cut, sort, grep, awk, uniq, wc)</li>
+  <li>Compare Files (diff, cmp)</li>
+  <li>Compress and Un-compress files/directories (tar, gzip, gunzip)</li>
+  <li>Combining and Splitting Files</li>
+  <li>Linux vs. Windows Commands</li>
+  <li>Quiz, Homework and Handouts</li>
+</ul>
+
+<h3 id="cyberclass">CyberClass</h3>
+
+<ul>
+  <li>Burp Suite - testowanie w środowisku testowym oraz live.</li>
+  <li>XSS - testowanie, nauczanie, ćwiczenie</li>
+</ul>
+
+<h4 id="portswigger-xss">PortSwigger: XSS</h4>
+
+<ul>
+  <li>DOM XSS in document.write sink using source location.search inside a select element</li>
+  <li>DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded</li>
+  <li>Reflected DOM XSS</li>
+  <li>Stored DOM XSS</li>
+  <li>Exploiting XSS to perform CSRF</li>
+</ul>
+
+<h4 id="thm-room-pre-security">THM: Room: Pre Security</h4>
+
+<ul>
+  <li>Cyber Security Introduction</li>
+  <li>Network Fundamentals</li>
+  <li>How The Web Works</li>
+  <li>Windows Fundamentals</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">
+Intensivity cyber !!
+</code></p>
+:ET

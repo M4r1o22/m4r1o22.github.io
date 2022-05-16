@@ -1,0 +1,46 @@
+I"3
+<p>Moje zasoby, które na bieżąco będą uzupełniane.</p>
+
+<h2 id="-zasoby"><a href="#header-5"></a> Zasoby</h2>
+
+<h3 id="kursy-yt">Kursy YT:</h3>
+<ul>
+  <li><a href="https://www.youtube.com/c/WorldofLinuxPoPolsku">World of Linux</a></li>
+  <li><a href="https://www.youtube.com/c/PiotrKo%C5%9Bka">Piotr Koska</a></li>
+  <li><a href="https://www.youtube.com/c/AdminAkademia">Admin Akademia</a></li>
+  <li><a href="https://www.youtube.com/c/Pasjainformatykitutoriale">Pasja Informatyki</a></li>
+  <li><a href="https://www.youtube.com/watch?v=fNzpcB7ODxQ">Ethical Hacking in 12 Hours</a></li>
+</ul>
+
+<h3 id="book">Book:</h3>
+<ul>
+  <li>Jak działa Linux. Podręcznik administratora. Wydanie II</li>
+  <li>Linux. Biblia. Wydanie X</li>
+  <li>Linux Administration Cookbook - 2018</li>
+  <li>Self-Service Linux - 2005</li>
+  <li>Bash Cookbook - 2007</li>
+  <li>The Linux Command Line - 2019</li>
+  <li>Kali Linux. Testy penetracyjne i bezpieczeństwo sieci dla zaawansowanych. Wydanie II</li>
+  <li>Kali Linux. Testy bezpieczeństwa, testy penetracyjne i etyczne hakowanie</li>
+  <li>Python. Wprowadzenie. Wydanie V</li>
+  <li>Uczenie maszynowe z użyciem Scikit-Learn i TensorFlow. Wydanie II</li>
+  <li>Python dla programistów. Big Data i AI. Studia przypadków</li>
+</ul>
+
+<h3 id="kurs-udemy">Kurs Udemy:</h3>
+<ul>
+  <li><a href="https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job">Linux Training</a></li>
+  <li><a href="https://www.udemy.com/course/linux-bash-shell-scripting-through-real-life-examples">Bash Shell Scripting</a></li>
+  <li><a href="https://www.udemy.com/course/kali-linux-podstawy-etycznego-hackingu-i-bezpieczenstwa/">Kali linux - podstawy etycznego hackingu v1</a></li>
+  <li><a href="https://www.udemy.com/course/kali-linux-podstawy-etycznego-hackingu-czesc-2/">Kali linux - podstawy etycznego hackingu v2</a></li>
+  <li><a href="https://www.udemy.com/course/podstawy-etycznego-hackingu-i-bezpieczenstwa-czesc-3/">Kali linux - podstawy etycznego hackingu v3</a></li>
+  <li><a href="https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/">Cyber security course v1</a></li>
+  <li><a href="https://www.udemy.com/course/network-security-course/">Cyber security course v2</a></li>
+  <li><a href="https://www.udemy.com/course/the-complete-cyber-security-course-anonymous-browsing/">Cyber security course v3</a></li>
+  <li><a href="https://www.udemy.com/course/the-complete-cyber-security-course-end-point-protection/">Cyber security course v4</a></li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">
+Nice
+</code></p>
+:ET

@@ -1,0 +1,42 @@
+I"	<h3 id="-udemy-module-7---networking-services-and-system-updates"><a href="#header-3"></a> Udemy: Module 7 - Networking, Services and System Updates</h3>
+
+<ul>
+  <li>Lekcja 143 - curl, ping</li>
+  <li>Lekcja 144 - ftp instalacja, uruchomienie, odblokowanie portu 21.<br />
+<em>Co ciekawe, przetestowałem to na swoim Rpi, na którym mam podłączony dysk.</em></li>
+  <li>Lekcja 145 - scp<br />
+<em>jw. Przesyłałem pliki na Rpi</em></li>
+  <li>Lekcja 146 - rsync<br />
+<em>gdybym znał tą komendę wczesniej ;) znacznie ułatwiłaby mi konfigurację Rpi, czy git page</em></li>
+  <li>Lekcja 147 - system updates and repos</li>
+  <li>Lekcja 148 - system upgrade and patch management</li>
+  <li>Lekcja 149 - create local repository</li>
+  <li>Lekcja 150 - advanced package management</li>
+  <li>Lekcja 151 - rollback patches and updates</li>
+  <li>Lekcja 152 - ssh and telnet</li>
+  <li>Lekcja 153 - DNS - install &amp; configure</li>
+  <li>Lekcja 154 - Hostname or IP Lookup</li>
+  <li>Lekcja 155 - Network Time Protocol</li>
+</ul>
+
+<h3 id="-zapisanie-na-cisco-secuniversity"><a href="#header-3"></a> <strong>Zapisanie na Cisco SecUniversity</strong></h3>
+
+<blockquote>
+  <p>SecUniversity to program edukacyjny, który powstał z myślą o specjalistach IT, którzy w swojej codziennej pracy dbają o cyberbezpieczeństwo w środowiskach powyżej 50 użytkowników. 
+Eksperci przybliżą szczegóły pracy w różnych działach bezpieczeństwa oraz przedstawią zagadnienia dotyczące technologii z obszaru cybersecurity na poziomie 200 (średnio-zaawansowany). Każda sesja to praktyczna odpowiedź na inny problem z jakim muszą mierzyć się dzisiejsze przedsiębiorstwa lub urzędy, a w szczególności zespoły IT.</p>
+</blockquote>
+
+<ul>
+  <li>02.03.22 - Zobacz test penetracyjny na żywo! W trakcie prezentacji: teoria, pokazy na żywo.</li>
+  <li>23.03.22 - Bezpieczeństwo sieci OT</li>
+  <li>13.04.22 - DEMO: Jak szybko i skutecznie reagować na ataki?</li>
+  <li>27.04.22 - Automatyzacja i orkiestracja procesów w cyberbezpieczeństwie</li>
+  <li>18.05.22 - Bezpieczna sieć kampusowa</li>
+  <li>08.06.22 - Bezpieczne i wysoko dostępne aplikacje - jak to ugryźć?</li>
+  <li>22.06.22 - Sesja końcowa</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">
+Zapowiada się ciekawie
+</code></p>
+:ET

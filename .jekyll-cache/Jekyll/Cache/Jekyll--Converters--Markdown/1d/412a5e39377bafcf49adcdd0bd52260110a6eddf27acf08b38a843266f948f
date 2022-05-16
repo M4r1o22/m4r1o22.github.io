@@ -1,0 +1,26 @@
+I"
+<p>Nowa zabawka do tworzenia struktury</p>
+<hr />
+<h3 id="-raspberry-pi-zero"><a href="#header-5"></a> Raspberry Pi Zero</h3>
+
+<ul>
+  <li>Instalacja, konfiguracja,problemy</li>
+  <li>Laptop ma problem z odczytywaniem kart SD.</li>
+  <li>Rozwiązanie alternatywne, wykorzystanie drugiego komputera.</li>
+  <li>Reinstall, połączenie przez putty.</li>
+  <li>Problemy z ssh, wynikające z aktualizacji systemu oraz zmian w oprogramowaniu.</li>
+  <li>Instalacja i konfiguracja samby oraz podłączanie dysku.</li>
+</ul>
+
+<h3 id="finalnie-działa-2601">Finalnie działa: 26.01</h3>
+
+<p><em>Podczas instalacji dużo się nauczyłem w zakresie nowego systemu, obrazu, połączeń ssh, podpinania dysku, instalacji serwera samba, udostępniania dla innych systemów</em><br />
+<em>Niektóre rzeczy musiałem kilka razy powtarzać, z niektórymi działaniami musiałem głebiej szukać</em><br />
+<em>Finalnie udało się</em><br />
+<em>Serwer sobie stoi</em></p>
+
+<p><code class="language-plaintext highlighter-rouge">
+Malina!!
+</code></p>
+
+:ET

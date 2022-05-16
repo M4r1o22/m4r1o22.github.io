@@ -1,0 +1,62 @@
+I"�<p>Kurs <a href="https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job">Linux Training</a> CyberClass 13.02 - 19.02</p>
+<hr />
+<h3 id="-udemy-module-5--system-administration"><a href="#header-5"></a> Udemy: Module 5 – System Administration</h3>
+
+<ul>
+  <li>Linux File Editors (vi text editor)</li>
+  <li>sed Command</li>
+  <li>User account management</li>
+  <li>Switch users and Sudo access</li>
+  <li>Monitor users</li>
+  <li>Talking to users (users, wall, write)</li>
+  <li>Linux Directory Service - Account Authentication</li>
+  <li>Difference between Active Directory, LDAP, IDM, WinBIND, OpenLDAP etc.</li>
+  <li>System utility commands (date, uptime, hostname, which, cal, bc etc.)</li>
+  <li>Processes and schedules (systemctl, ps, top, kill, crontab and at)</li>
+  <li>Process Management</li>
+  <li>System Monitoring Commands (top, df, dmesg, iostat 1, netstat, free etc.)</li>
+  <li>OS Maintenance Commands (shutdown, reboot, halt, init etc.)</li>
+  <li>Changing System Hostname (hostnamectl)</li>
+  <li>Finding System Information (uname, cat /etc/redhat-release, cat /etc/<em>rel</em>, dmidecode)</li>
+  <li>System Architecture (arch)</li>
+  <li>Terminal control keys</li>
+  <li>Terminal Commands (clear, exit, script)</li>
+  <li>Recover root Password (single user mode)</li>
+  <li>SOS Report</li>
+</ul>
+
+<h3 id="-udemy-module-6--shell-scripting"><a href="#header-5"></a> Udemy: Module 6 – Shell Scripting</h3>
+
+<ul>
+  <li>Linux Kernel</li>
+  <li>What is a Shell?</li>
+  <li>Types of Shells</li>
+  <li>Shell scripting</li>
+  <li>Basic Shell scripts</li>
+  <li>If-then scripts</li>
+  <li>For loop scripts</li>
+  <li>do-while scripts</li>
+  <li>Case statement scripts</li>
+  <li>Aliases</li>
+  <li>Shell History</li>
+  <li>Command history</li>
+  <li>Quiz, Homework and Handouts</li>
+</ul>
+
+<h3 id="cyberclass">CyberClass</h3>
+
+<ul>
+  <li>TryHackMe</li>
+</ul>
+
+<blockquote>
+  <p>Na czas ferii nie ma zajęć, co prawda można dopytywać, ale większość jest na wyjeździe.
+THM czytam i pojedyncze tematy przerabiam
+Nacisk połozony zdecydowanie na kurs linuxa
+Zwłaszcza, że na feriach ciężej o koncentracje</p>
+</blockquote>
+
+<p><code class="language-plaintext highlighter-rouge">
+Ferie !!
+</code></p>
+:ET
