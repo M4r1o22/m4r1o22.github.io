@@ -7,7 +7,7 @@ Obejmuje retrospekcje od początku mojej ścieżki.
 Theme pochodzi z [hacker theme](https://github.com/pages-themes/hacker)
 
 **Zapraszam do mojego notatnika:**
-* m4r1o22.github.io
+* https://m4r1o22.github.io
 
 <!---
 # The Hacker-Blog theme
