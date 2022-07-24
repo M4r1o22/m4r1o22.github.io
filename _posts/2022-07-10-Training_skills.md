@@ -37,6 +37,7 @@ Tematy, które ćwicyzłem to:
 ### [](#header-3) **Udemy - The Complete Cyber Security Course - Volume-2 **
 
 > Związku z zakończeniem 1 części, odrazu rozpocząłem drugą część. Duża wartość teoretyczna, ucząca o podstawach i zasadach..
+Volume 2 : Network Security, WiFi Security, WiFi Hackers, Firewalls, Wireshark, Secure Networking. + Password Managers
 
 * Sekcja 1: Introduction
 * Sekcja 2: Goals and Learning Objective - v2
